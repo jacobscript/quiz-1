@@ -1,1 +1,1 @@
-# quiz-1
+#  A quiz application using JavaScript
